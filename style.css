@@ -1,0 +1,38 @@
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+h1{
+    font-family: cursive;
+    font-size: 50px;
+}
+
+img{
+    width: 2cm;
+}
+
+table{
+    font-family: cursive;
+}
+
+#hufflepuff h1{
+    background-color: rgba(251, 255, 0, 0.692) ;
+}
+
+#hufflepuff p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    padding: 100px;
+}
+
+#hufflepuff img{
+    width: 5cm;
+    align-items: center;
+    padding: 100px;
+}
+
+.centralizar{
+    text-align: center;
+    align-items: center;
+}
